@@ -27,7 +27,6 @@
     <![endif]-->
 
 </head>
-
 <body>
 <!-- navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -43,7 +42,7 @@
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
+                    <li class="active">
                         <a href="blog.html">ziņas</a>
                     </li>
 	    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">par mums<span class="caret"></span></a>
@@ -55,8 +54,8 @@
                     <li>
                         <a href="izrades.html">repertuārs</a>
                     </li>
-                    <li class="active">
-                        <a href="kontakti.html">kontakti</a>
+                    <li>
+                        <a href="contact.html">kontakti</a>
                     </li>
                 </ul>
             </div>
@@ -64,56 +63,48 @@
         </div>
         <!-- /.container -->
     </nav>
-    <header class="index-header" style="background-image: url('img/contact-bg.jpg')">
+    
+    <header class="index-header" style="background-image: url('img/about-bg.jpg')">
     </header>
 
     <!-- Main Content -->
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p></p>
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>vārds</label>
-                            <input type="text" class="form-control" placeholder="vārds" id="name" required data-validation-required-message="lūdzu, ievadiet Jūsu vārdu">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>e-pasta adrese</label>
-                            <input type="email" class="form-control" placeholder="e-pasts" id="email" required data-validation-required-message="lūdzu ievadiet e-pasta adresi">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>telefona numurs</label>
-                            <input type="tel" class="form-control" placeholder="telefona numurs" id="phone" required data-validation-required-message="lūdzu, ievadiet telefona numuru">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <div class="row control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>ziņa</label>
-                            <textarea rows="5" class="form-control" placeholder="ziņa" id="message" required data-validation-required-message="lūdzu, ievadiet ziņas tekstu"></textarea>
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-                    <br>
-                    <div id="success"></div>
-                    <div class="row">
-                        <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-default">sūtīt ziņu</button>
-                        </div>
-                    </div>
-                </form>
+                <div class="post-preview">
+                    <a href="blog/aktinakti15.html">
+                        <h2 class="post-title">
+                            Akti Naktī'15 Akts Nr.20
+                        </h2>
+                        <h3 class="post-subtitle">Kompānija ĀRĀ piedalījās Akti Naktī Liepājā ar četrām dejas izrādēm un filmu. </h3>
+                    </a>
+                </div>
+                <hr>
+                <div class="post-preview">
+                    <a href="blog/pr15.html">
+                        <h2 class="post-title">PATRIARHA RUDENS atklāšanas pasākums Āgenskalna tirgū.</h2>
+                    </a>
+                </div>
+                <hr>
+                <div class="post-preview">
+                    <a href="blog/salob15.html">
+                        <h2 class="post-title">Radošā nometne Salobrenjā!</h2>
+                        <h3 class="post-subtitle">Rudens radošais brauciens ir kļuvis par tradīciju vēl kopš akadēmijas laikiem </h3>
+                    </a>
+                </div>
+                <hr>
+                <!-- Pager -->
+                <ul class="pager">
+                    <li class="next">
+                        <a href="#">vecāki raksti &rarr;</a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
 
     <hr>
+
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -121,7 +112,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                         <li>
-                            <a href="https://www.facebook.com/arakontakti">
+                            <a href="#">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -134,15 +125,15 @@
         </div>
     </footer>
 
-<!-- jQuery -->
+    <!-- jQuery -->
     <script src="js/jquery.js"></script>
-<!-- Bootstrap Core JavaScript -->
+
+    <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
-<!-- Custom Theme JavaScript -->
+    <!-- Custom Theme JavaScript -->
     <script src="js/clean-blog.min.js"></script>
 
 </body>
 
 </html>
-
