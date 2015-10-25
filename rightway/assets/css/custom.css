@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: #404040;
 }
 p {
@@ -408,7 +408,6 @@ body {
   text-align: right;
   list-style: none;
   background-color: #B2B6BA;
-  opacity: 50%;
 }
 .dropdown-menu > li > a {
   display: block;
@@ -437,7 +436,7 @@ body {
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
-  color: #fff;
+  color: #5C5F61;
 }
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
