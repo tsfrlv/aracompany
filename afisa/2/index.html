@@ -25,7 +25,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
 <body>
 <!-- navigation -->
@@ -108,13 +107,13 @@ Attēlot kaut ko tik dziļu, sarežģītu un neaprakstāmu, kā mīlestība - te
             </div>
 		<div class="item">
 		  <div class="carousel-caption-izr">
+
                         <h4 class="pull-right">'30</h4>
                         <h3><a href="../../repertuars/paradoxa.html">PARA-DOXA jeb Pasaka jauktā secībā</a></h3>
                         <h5>Horeogrāfija: Rūdolfs Gediņš</h5>
                         <p>Tā ir pasaka bez morāles, novērojums bez secinājuma un grēksūdze bez piedošanas. Izrāde attēlo visur esošo, bet īpaši neizcelto paradoksu, ikdienas pretrunas, kuru daudzslāņaino dabu mēs nemaz nemēģinām apzināties. Cīņa un nejauša sadarbība starp gaismu un tumsu, mani un Tevi, dzīvniecisko un cilvēcisko. Sāncensība starp instinktiem, iegribām, vajadzībām un apziņo par to, kas no mums tiek sagaidīts un kā mēs spēsim izvairīties no nosodījuma. Jo katrā no mums iekšā ir vairāki "es", tie, kaut iespējams pat diametrāli pretēji savā starpā, visi var būt patiesi.</p>
 <p>Dejo: Ivars Broničs, Ģirts Bisenieks, Agate Bankava, Eva Kronberga, Anna Novikova / Taisija Frolova</p>
         <hr>
-			<div class="fill"><a href="../../repertuars/paradoxa.html"><img src="paradoxa.jpg" class="img-responsive"></a></div>
 		    </div>
  </div>
             </div>
@@ -132,7 +131,7 @@ Attēlot kaut ko tik dziļu, sarežģītu un neaprakstāmu, kā mīlestība - te
 
     </div>
     <!-- /.container -->
-
+</div>
 
     <!-- jQuery -->
     <script src="../../assets/js/jquery.js"></script>
@@ -142,6 +141,23 @@ Attēlot kaut ko tik dziļu, sarežģītu un neaprakstāmu, kā mīlestība - te
 
     <!-- Custom Theme JavaScript -->
     <script src="../../assets/js/custom.js"></script>
+	<script> 
+$('#myCarousel').carousel({interval:false});
+var myInterval=false;
+$('.carousel-control').mouseover(function() {
+    var ctrl = $(this);
+    var interval=1500;
+
+    myInterval = setInterval(function(){
+         ctrl.trigger("click");
+    },interval);
+});
+
+$('.carousel-control').mouseout(function(){
+    clearInterval(myInterval);
+    myInterval = false;
+});
+</script>
 
 </body>
 
