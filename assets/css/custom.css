@@ -471,7 +471,8 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
 .open > .dropdown-menu {
-    display: flex;
+    display: block;
+	width: 120px;
 }
 .carousel {
     height: 500px;
