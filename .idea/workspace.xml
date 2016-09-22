@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/afisa/2/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/1/index.html" afterPath="$PROJECT_DIR$/afisa/1/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/index.html" afterPath="$PROJECT_DIR$/afisa/index.html" />
     </list>
     <list id="148ad31d-12e4-480d-8dac-0bf2a6f418c0" name="Rejected commit: Default" comment="Rejected commit: Default" />
@@ -44,9 +42,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/afisa/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="100" column="76" selection-start-line="100" selection-start-column="76" selection-end-line="100" selection-end-column="76" />
-              <folding />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,9 +85,9 @@
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/repertuars/rauts.html" />
         <option value="$PROJECT_DIR$/repertuars/index.html" />
-        <option value="$PROJECT_DIR$/afisa/index.html" />
         <option value="$PROJECT_DIR$/afisa/2/index.html" />
         <option value="$PROJECT_DIR$/afisa/1/index.html" />
+        <option value="$PROJECT_DIR$/afisa/index.html" />
       </list>
     </option>
   </component>
@@ -387,7 +387,7 @@
       <workItem from="1473272668949" duration="24000" />
       <workItem from="1473272763186" duration="882000" />
       <workItem from="1473795108810" duration="5489000" />
-      <workItem from="1474562118253" duration="511000" />
+      <workItem from="1474562118253" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="new afisa">
       <created>1473799265980</created>
@@ -403,17 +403,24 @@
       <option name="project" value="LOCAL" />
       <updated>1474400159206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ananda done">
+      <created>1474562656077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1474562656077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15789000" />
+    <option name="totallyTimeSpent" value="15959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24801692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24801692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -446,7 +453,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new afisa" />
     <MESSAGE value="mistake afisha" />
-    <option name="LAST_COMMIT_MESSAGE" value="mistake afisha" />
+    <MESSAGE value="ananda done" />
+    <option name="LAST_COMMIT_MESSAGE" value="ananda done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -831,9 +839,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/afisa/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="100" column="76" selection-start-line="100" selection-start-column="76" selection-end-line="100" selection-end-column="76" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
