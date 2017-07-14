@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/fafabu.jpg" afterPath="$PROJECT_DIR$/repertuars/fafabu.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/slikta.jpg" afterPath="$PROJECT_DIR$/repertuars/slikta.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/index.html" afterPath="$PROJECT_DIR$/repertuars/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/slikta.html" afterPath="$PROJECT_DIR$/repertuars/slikta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/vissbalta.html" afterPath="$PROJECT_DIR$/repertuars/vissbalta.html" />
     </list>
     <list id="148ad31d-12e4-480d-8dac-0bf2a6f418c0" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="aracompany.lv.iws" />
@@ -397,7 +392,7 @@
       <workItem from="1476655023188" duration="185000" />
       <workItem from="1476655425909" duration="6000" />
       <workItem from="1476655507159" duration="20000" />
-      <workItem from="1499929050411" duration="6582000" />
+      <workItem from="1499929050411" duration="6599000" />
     </task>
     <task id="LOCAL-00001" summary="new afisa">
       <created>1473799265980</created>
@@ -434,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500037797667</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="agate fix">
+      <created>1500039352386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1500039352386</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23475000" />
+    <option name="totallyTimeSpent" value="23492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -480,7 +482,8 @@
     <MESSAGE value="mistake afisha" />
     <MESSAGE value="ananda done" />
     <MESSAGE value="agate" />
-    <option name="LAST_COMMIT_MESSAGE" value="agate" />
+    <MESSAGE value="agate fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="agate fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
