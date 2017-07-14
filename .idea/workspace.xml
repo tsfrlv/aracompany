@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="agate">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/membra1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/membra2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/slika1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/slikta2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/slikta3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/slikta4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/img/slikta5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/membra.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/slikta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/membra.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repertuars/slikta.html" />
+    <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/fafabu.jpg" afterPath="$PROJECT_DIR$/repertuars/fafabu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/slikta.jpg" afterPath="$PROJECT_DIR$/repertuars/slikta.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/1/index.html" afterPath="$PROJECT_DIR$/afisa/1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/index.html" afterPath="$PROJECT_DIR$/afisa/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/ananda.html" afterPath="$PROJECT_DIR$/repertuars/ananda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/fafabulala.html" afterPath="$PROJECT_DIR$/repertuars/fafabulala.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/index.html" afterPath="$PROJECT_DIR$/repertuars/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/jim.html" afterPath="$PROJECT_DIR$/repertuars/jim.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/paradoxa.html" afterPath="$PROJECT_DIR$/repertuars/paradoxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/rauts.html" afterPath="$PROJECT_DIR$/repertuars/rauts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/simts.html" afterPath="$PROJECT_DIR$/repertuars/simts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/sway.html" afterPath="$PROJECT_DIR$/repertuars/sway.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/tmaap.html" afterPath="$PROJECT_DIR$/repertuars/tmaap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/slikta.html" afterPath="$PROJECT_DIR$/repertuars/slikta.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/vissbalta.html" afterPath="$PROJECT_DIR$/repertuars/vissbalta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/vnd.html" afterPath="$PROJECT_DIR$/repertuars/vnd.html" />
     </list>
     <list id="148ad31d-12e4-480d-8dac-0bf2a6f418c0" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="aracompany.lv.iws" />
@@ -77,21 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ananda.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repertuars/ananda.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="92" column="60" selection-start-line="92" selection-start-column="60" selection-end-line="92" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="slikta.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repertuars/slikta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="183" column="6" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
+            <state relative-caret-position="66">
+              <caret line="146" column="38" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
               <folding>
                 <element signature="e#6059#6065#0" expanded="true" />
                 <element signature="e#6068#6074#0" expanded="true" />
@@ -119,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/afisa/1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="2395">
               <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -131,23 +102,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vissbalta.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repertuars/vissbalta.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repertuars/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="471">
+              <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vnd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repertuars/vnd.html">
+      <file leaf-file-name="vissbalta.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repertuars/vissbalta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="200" column="6" selection-start-line="200" selection-start-column="6" selection-end-line="200" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="212" column="80" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fafabu.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repertuars/fafabu.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -173,21 +163,21 @@
         <option value="$PROJECT_DIR$/assets/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/afisa/2/index.html" />
-        <option value="$PROJECT_DIR$/repertuars/index.html" />
         <option value="$PROJECT_DIR$/repertuars/rauts.html" />
         <option value="$PROJECT_DIR$/afisa/index.html" />
         <option value="$PROJECT_DIR$/repertuars/sway.html" />
         <option value="$PROJECT_DIR$/repertuars/jim.html" />
         <option value="$PROJECT_DIR$/repertuars/ananda.html" />
-        <option value="$PROJECT_DIR$/repertuars/vissbalta.html" />
         <option value="$PROJECT_DIR$/repertuars/vnd.html" />
         <option value="$PROJECT_DIR$/repertuars/simts.html" />
         <option value="$PROJECT_DIR$/repertuars/fafabulala.html" />
         <option value="$PROJECT_DIR$/repertuars/tmaap.html" />
         <option value="$PROJECT_DIR$/repertuars/paradoxa.html" />
-        <option value="$PROJECT_DIR$/repertuars/slikta.html" />
         <option value="$PROJECT_DIR$/repertuars/membra.html" />
         <option value="$PROJECT_DIR$/afisa/1/index.html" />
+        <option value="$PROJECT_DIR$/repertuars/slikta.html" />
+        <option value="$PROJECT_DIR$/repertuars/vissbalta.html" />
+        <option value="$PROJECT_DIR$/repertuars/index.html" />
       </list>
     </option>
   </component>
@@ -407,7 +397,7 @@
       <workItem from="1476655023188" duration="185000" />
       <workItem from="1476655425909" duration="6000" />
       <workItem from="1476655507159" duration="20000" />
-      <workItem from="1499929050411" duration="5037000" />
+      <workItem from="1499929050411" duration="6582000" />
     </task>
     <task id="LOCAL-00001" summary="new afisa">
       <created>1473799265980</created>
@@ -437,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474562812901</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="agate">
+      <created>1500037797667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500037797667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21930000" />
+    <option name="totallyTimeSpent" value="23475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -449,11 +446,11 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2516164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -490,13 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/repertuars/ananda.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="29" selection-start-line="106" selection-start-column="16" selection-end-line="140" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -746,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repertuars/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="110" column="48" selection-start-line="110" selection-start-column="48" selection-end-line="110" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repertuars/paradoxa.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -801,14 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repertuars/vissbalta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repertuars/vnd.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -849,22 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repertuars/slikta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="183" column="6" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
-          <folding>
-            <element signature="e#6059#6065#0" expanded="true" />
-            <element signature="e#6068#6074#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repertuars/membra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -879,10 +837,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/afisa/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="2395">
           <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repertuars/fafabu.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repertuars/slikta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="146" column="38" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+          <folding>
+            <element signature="e#6059#6065#0" expanded="true" />
+            <element signature="e#6068#6074#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repertuars/vissbalta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="212" column="80" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repertuars/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
