@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="agate fix">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repertuars/fafabu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repertuars/slikta.jpg" afterPath="" />
+    <list default="true" id="ffd93ec4-144a-4517-a948-5b7d1da69589" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repertuars/index.html" afterPath="$PROJECT_DIR$/repertuars/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/1/index.html" afterPath="$PROJECT_DIR$/afisa/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/afisa/index.html" afterPath="$PROJECT_DIR$/afisa/index.html" />
     </list>
     <list id="148ad31d-12e4-480d-8dac-0bf2a6f418c0" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="aracompany.lv.iws" />
@@ -32,6 +31,18 @@
             <state relative-caret-position="315">
               <caret line="169" column="6" selection-start-line="169" selection-start-column="6" selection-end-line="169" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/afisa/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="90" column="108" selection-start-line="90" selection-start-column="108" selection-end-line="90" selection-end-column="108" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +84,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/afisa/1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2395">
-              <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+            <state relative-caret-position="371">
+              <caret line="90" column="114" selection-start-line="90" selection-start-column="114" selection-end-line="90" selection-end-column="114" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -82,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repertuars/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
@@ -135,7 +146,6 @@
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/afisa/2/index.html" />
         <option value="$PROJECT_DIR$/repertuars/rauts.html" />
-        <option value="$PROJECT_DIR$/afisa/index.html" />
         <option value="$PROJECT_DIR$/repertuars/sway.html" />
         <option value="$PROJECT_DIR$/repertuars/jim.html" />
         <option value="$PROJECT_DIR$/repertuars/ananda.html" />
@@ -145,10 +155,11 @@
         <option value="$PROJECT_DIR$/repertuars/tmaap.html" />
         <option value="$PROJECT_DIR$/repertuars/paradoxa.html" />
         <option value="$PROJECT_DIR$/repertuars/membra.html" />
-        <option value="$PROJECT_DIR$/afisa/1/index.html" />
         <option value="$PROJECT_DIR$/repertuars/slikta.html" />
         <option value="$PROJECT_DIR$/repertuars/vissbalta.html" />
         <option value="$PROJECT_DIR$/repertuars/index.html" />
+        <option value="$PROJECT_DIR$/afisa/1/index.html" />
+        <option value="$PROJECT_DIR$/afisa/index.html" />
       </list>
     </option>
   </component>
@@ -203,20 +214,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="aracompany.lv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aracompany.lv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aracompany.lv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repertuars" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,7 +365,7 @@
       <workItem from="1476655023188" duration="185000" />
       <workItem from="1476655425909" duration="6000" />
       <workItem from="1476655507159" duration="20000" />
-      <workItem from="1499929050411" duration="6866000" />
+      <workItem from="1499929050411" duration="7018000" />
     </task>
     <task id="LOCAL-00001" summary="new afisa">
       <created>1473799265980</created>
@@ -419,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500039371660</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="agate fix">
+      <created>1500039653426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500039653426</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23759000" />
+    <option name="totallyTimeSpent" value="23911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -735,16 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/afisa/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repertuars/sway.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1577">
@@ -821,16 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/afisa/1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2395">
-          <caret line="146" column="0" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repertuars/fafabu.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -874,6 +858,26 @@
           <folding>
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/afisa/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="90" column="114" selection-start-line="90" selection-start-column="114" selection-end-line="90" selection-end-column="114" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/afisa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="90" column="108" selection-start-line="90" selection-start-column="108" selection-end-line="90" selection-end-column="108" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
